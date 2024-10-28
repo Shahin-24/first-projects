@@ -141,6 +141,9 @@ section .footer .row.row2 ul{
     display: flex;
     
 }
+.color{
+    color: yellowgreen;
+}
 section .footer .row.row2 ul li{
     list-style: none;
    
